@@ -1,8 +1,8 @@
 ﻿namespace RunGroopWebApp.Data.Enum
 {
-    public enum RacesCategory
+    public enum RaceCategory
     {
-        Marthon,
+        Marathon,
         Ultra,
         FiveK,
         TenK,
