@@ -59,3 +59,5 @@ C:\Users\User\Desktop\Pizzeria\RunGroopWebApp\RunGroopWebApp\obj\Debug\net6.0\re
 C:\Users\User\Desktop\Pizzeria\RunGroopWebApp\RunGroopWebApp\obj\Debug\net6.0\RunGroopWebApp.pdb
 C:\Users\User\Desktop\Pizzeria\RunGroopWebApp\RunGroopWebApp\obj\Debug\net6.0\RunGroopWebApp.genruntimeconfig.cache
 C:\Users\User\Desktop\Pizzeria\RunGroopWebApp\RunGroopWebApp\obj\Debug\net6.0\ref\RunGroopWebApp.dll
+C:\Users\User\Desktop\Pizzeria\RunGroopWebApp\RunGroopWebApp\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\User\Desktop\Pizzeria\RunGroopWebApp\RunGroopWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
